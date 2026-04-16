@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# ML model files (large binaries - store separately)
+Models/
+
+# Runtime data (input/output)
+Data/
+Results/
+projects/
+
+# Archives
+*.tar.gz
+*.zip
+
+# Dev/scratch files
+test.ipynb
+check_model.py
+requirements_backup.txt
+
+# Duplicate root-level images (canonical copies are in Images/)
+file_save.png
+file_save_white.png
+open_file.png
+PoscoFutureM_logo.png
+postech_logo.jpg
+
+# IDE
+.vscode/
