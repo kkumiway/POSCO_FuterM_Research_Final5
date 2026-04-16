@@ -8,7 +8,6 @@ __pycache__/
 
 # PyInstaller build artifacts
 build/
-dist/
 
 # ML model files (large binaries - store separately)
 Models/
@@ -17,6 +16,7 @@ Models/
 Data/
 Results/
 projects/
+_internal/
 
 # Archives
 *.tar.gz
